@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "style-modyles/base";
+@import "style-modyles/variables";
+@import "style-modyles/mixins";
+
+@import "style-modyles/header";
+@import "style-modyles/main-part";
+@import "style-modyles/menu-box";
+@import "style-modyles/typography";
+@import "style-modyles/progress-bar";
+@import "style-modyles/contact";
